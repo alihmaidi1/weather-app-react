@@ -1,0 +1,55 @@
+.header-output{
+
+color:  rgb(13, 171, 199);
+font-weight: 500;
+border-bottom: 1px solid silver;
+padding: 10px;
+
+}
+
+.fa{
+
+    display: inline-block;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.img-weather{
+
+    width:170px;
+    margin: 30px auto;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.tempreture-head{
+
+    text-align: center;
+    font-size:34px;
+    font-weight: 700;
+    margin-bottom: 0px;
+
+}
+
+.center-element{
+
+    text-align: center;
+    font-weight: 500;
+}
+
+.button-icon{
+
+    cursor: pointer;
+    background: #fff;
+    width: 50%;
+    border: 1px solid #ddd;
+    padding:13px;
+    border-radius: 4px;
+    margin-top: 10px ;
+}
+
+.fas{
+
+    font-size:18px;
+    color:rgb(11, 195, 219);
+}

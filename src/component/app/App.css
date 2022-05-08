@@ -1,0 +1,108 @@
+body{
+
+background:rgb(13, 171, 199);
+
+}
+
+.App{
+
+    background: #fff;
+    width:50%;
+    margin:30px auto;
+    padding:20px;
+    box-shadow: inset 2px 2px 3px 3px #ddd,
+    inset -2px -2px 3px 3px #ddd,
+    0px 0px 0px 6px #fff;
+}
+
+
+@media(max-width:400px){
+
+    .App{
+
+        width:85%;
+    }
+
+}
+
+
+@media(min-width:400px){
+
+    .App{
+
+        width:75%;
+    }
+
+}
+
+
+
+@media(min-width:500px){
+
+    .App{
+
+        width:65%;
+    }
+
+}
+
+
+@media(min-width:600px){
+
+    .App{
+
+        width:55%;
+    }
+
+}
+
+
+@media(min-width:700px){
+
+    .App{
+
+        width:45%;
+    }
+
+}
+
+
+
+@media(min-width:800px){
+
+    .App{
+
+        width:40%;
+    }
+
+}
+@media(min-width:900px){
+
+    .App{
+
+        width:33%;
+    }
+
+}
+
+
+@media(min-width:900px){
+
+    .App{
+
+        width:27%;
+    }
+
+}
+.header-text{
+
+    font-size:23px;
+    font-weight: 700;
+    text-align: center;
+    color:rgb(13, 171, 199);
+    border: none;
+    padding-bottom: 4px;
+    margin-bottom: 9px;
+    border-bottom:1px solid rgba(102, 85, 68, 0.692)  ;
+
+}
